@@ -1,0 +1,3 @@
+#+title:    Apple PowerBook G4 Enthusiasts
+#+subtitle: A modern, readable, and lovingly maintained resource for Apple PowerBook G4 Enthusiasts.
+
