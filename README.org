@@ -1,3 +1,14 @@
 #+title:    Apple PowerBook G4 Enthusiasts
 #+subtitle: A modern, readable, and lovingly maintained resource for Apple PowerBook G4 Enthusiasts.
 
+* Focus On Having Fun With Your Apple PowerBook G4 (PBG4)
+
+Welcome, fellow enthusiasts!
+
+The PBG4 is an industry disruptor that disintegrated antiquated ideas about the impossible tradeoff between form and function: revealing that there is no compromise necessary when Apple does the job. PBG4s deliver high-performance computing in a beautiful form factor. Even better is that the PBG4s let you run both Mac OS 9 (in Native of Classic Mode) and Mac OS X (10): on a single machine, you get to run two very well loved and supported Apple operating systems. Not to delve too deep into it here, but also know that a wide variety of other operating systems also run on PBG4 (you'll see later). Whether you are a newbie or an old hat to the PBG4, welcome.
+
+This document aims to research, document, collect, archive, and publish anything and everything related to the PBG4. It will always benefit from your contributions of any form. It's health requires a constant state of iterative development.
+
+Thank you so much for visiting.
+
+Have a great day!
